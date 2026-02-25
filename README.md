@@ -1,33 +1,46 @@
-### Welcome to my GitHub profile 👋
+# Hi, I'm Fayaz Uddin 👋
 
-#### Freelance Front-End Developer
+## Top-Rated Plus Front-End Developer | React & Next.js Specialist
 
-I'm Fayaz Uddin 👨‍💻, a Front-End Developer with over 4 years of experience in building user-friendly and visually appealing web applications. I specialize in HTML, CSS, JavaScript, React, Next.js, and more. I am passionate about creating seamless, interactive websites with a focus on performance and accessibility.
+I craft **fast, scalable, SEO-friendly web applications** that not only look good but perform flawlessly. With 4+ years of experience, I specialize in **React, Next.js, and modern front-end architectures**, building everything from **SaaS dashboards** to **interactive e-commerce platforms**.  
 
-🏭 **Industry Experience**:  
-✔ E-Commerce  
-✔ Healthcare  
-✔ Finance  
-✔ Business  
-✔ Manufacturing
+💡 **Focus Areas:** Performance, clean code, accessibility, long-term maintainability.
 
-## Skills 🚀
+---
 
-🔥 **Languages**  
-- JavaScript, TypeScript, HTML, CSS
+## 🏭 Industry Experience
+- E-Commerce  
+- Healthcare  
+- Finance  
+- Business & SaaS  
+- Manufacturing  
 
-🔧 **Frameworks & Libraries**  
-- React, Next.js, Material UI (MUI), Tailwind CSS
+---
 
-⚡ **Tools & Technologies**  
-- Git, Webpack, Babel, npm, Firebase, RESTful APIs, GraphQL, Docker
+## 🚀 Skills
 
-## Projects & Contributions 🌍
+**Languages:**  
+JavaScript | TypeScript | HTML | CSS  
 
-Feel free to browse through my repositories showcasing both personal and professional projects. I enjoy collaborating with others, so if you have an interesting project or idea, don't hesitate to reach out!
+**Frameworks & Libraries:**  
+React | Next.js | Material UI (MUI) | Tailwind CSS  
 
-## Let's Connect! 🤝
+**Tools & Technologies:**  
+Git | Webpack | Babel | npm | Firebase | RESTful APIs | GraphQL | Docker  
 
-I'm always open to new opportunities, collaborations, and projects. You can check out my [Portfolio](https://fayazuddin.netlify.app) or reach out via [LinkedIn](https://www.linkedin.com/in/fayazuddin) for any inquiries.
+---
 
-Happy coding! 🚀
+## 🌟 Projects & Contributions
+
+I don’t just code—I **solve problems and build products that scale**. Explore my repositories for personal and professional projects, from high-performance dashboards to production-ready applications.  
+
+🔗 [Portfolio](https://fayazuddin.netlify.app)  
+🔗 [Upwork Profile](https://www.upwork.com/freelancers/fayazuddin)  
+
+---
+
+## 🤝 Let's Collaborate
+
+If you have an **interesting project or challenge**, I’m all ears. Whether it’s a freelance opportunity or a collaborative idea, I love turning concepts into robust, maintainable web solutions.  
+
+**Happy coding & let’s build something epic! 🚀**
